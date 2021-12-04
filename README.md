@@ -38,7 +38,9 @@ wheel down | zoom out relative to the mouse
 
 ## Images
 <p align="center">
+  <a href="https://en.wikipedia.org/wiki/Julia_set">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/julia.png">
+  </a>
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/ship.png">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/mandel.png">
  </p>
