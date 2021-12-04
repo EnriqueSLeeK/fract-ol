@@ -39,8 +39,12 @@ wheel down | zoom out relative to the mouse
 ## Images
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Julia_set">
-  <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/julia.png">
+    <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/julia.png">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Burning_Ship_fractal">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/ship.png">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Mandelbrot_set">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/mandel.png">
+  </a>
  </p>
