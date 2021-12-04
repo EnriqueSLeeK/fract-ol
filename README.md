@@ -8,7 +8,6 @@ make
 
 ## Functionality
 key | Behaviour
-<<<<<<< HEAD
 ----|------------
 esc | terminate the renderer
 W   | move up
