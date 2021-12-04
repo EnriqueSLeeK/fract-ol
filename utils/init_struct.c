@@ -6,11 +6,7 @@
 /*   By: ensebast <ensebast@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/18 19:30:05 by ensebast          #+#    #+#             */
-<<<<<<< HEAD
-/*   Updated: 2021/10/25 18:29:19 by ensebast         ###   ########.br       */
-=======
-/*   Updated: 2021/10/24 14:43:11 by ensebast         ###   ########.br       */
->>>>>>> b2c0f17 (project)
+/*   Updated: 2021/12/04 17:45:17 by ensebast         ###   ########.br       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,11 +38,7 @@ void	init_zoom(t_zoom *zoom)
  */
 void	init_coord(t_coord *coord)
 {
-<<<<<<< HEAD
 	coord -> scale = (double)(5.0 / WIDTH);
-=======
-	coord -> scale = (double)(6.0 / WIDTH);
->>>>>>> b2c0f17 (project)
 	coord -> tl_s[0] = 0;
 	coord -> tl_s[1] = 0;
 	coord -> dr_s[0] = WIDTH;

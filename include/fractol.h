@@ -6,30 +6,22 @@
 /*   By: ensebast <ensebast@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/02 19:08:15 by ensebast          #+#    #+#             */
-<<<<<<< HEAD
-/*   Updated: 2021/12/04 17:13:18 by ensebast         ###   ########.br       */
-=======
+/*   Updated: 2021/12/04 17:44:03 by ensebast         ###   ########.br       */
 /*   Updated: 2021/10/24 17:42:06 by ensebast         ###   ########.br       */
->>>>>>> b2c0f17 (project)
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FRACTOL_H
 # define FRACTOL_H
 
-# include "../minilibx-linux/mlx.h"
+# include "../minilibx/mlx.h"
 # include "fractol_struct.h"
 # include <stdlib.h>
 # include <math.h>
 # include <stdio.h>
 
-<<<<<<< HEAD
 # define WIDTH 500
 # define HEIGHT 500
-=======
-# define WIDTH 900
-# define HEIGHT 640
->>>>>>> b2c0f17 (project)
 
 # define ESC 65307
 # define Q 113
@@ -38,10 +30,6 @@
 # define S 115
 # define A 97
 # define D 100
-<<<<<<< HEAD
-=======
-# define R 114
->>>>>>> b2c0f17 (project)
 # define Z 122
 # define X 120
 
