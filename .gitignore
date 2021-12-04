@@ -1,0 +1,8 @@
+*.a
+*.out
+<<<<<<< HEAD
+=======
+*.pdf
+>>>>>>> b2c0f17 (project)
+fractol
+test
