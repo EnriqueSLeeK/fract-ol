@@ -37,7 +37,7 @@ wheel up   | zoom in relative to the mouse
 wheel down | zoom out relative to the mouse
 
 ## Images
-<p aligh="center">
+<p align="center">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/julia.png">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/ship.png">
   <img src = "https://github.com/EnriqueSLeeK/fract-ol/blob/main/img/mandel.png">
